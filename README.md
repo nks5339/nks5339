@@ -10,7 +10,6 @@
 
 <h1 align="center">Hi there, I'm Nikunj Kumar 👋</h1>
 <h2 align="center">AI/ML &amp; Generative AI Developer | LLMs, RAG &amp; Enterprise AI Systems</h2>
-<h3 align="center">{More precisely}</h3>
 
 <h2>
 AI/ML and Generative AI Developer with hands-on expertise in building intelligent systems using Large Language Models (LLMs), RAG pipelines, and vector databases. Experienced in deploying scalable Gen-AI applications that combine natural language processing, computer vision, and speech recognition. Passionate about solving complex real-world challenges in procurement, healthcare, and enterprise automation through cutting-edge AI frameworks and cloud-native architectures.
