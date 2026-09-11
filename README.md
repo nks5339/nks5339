@@ -1,82 +1,81 @@
 <div align="center">
-
-# Hi, I'm Nikunj Kumar 👋
-
-### Generative AI Engineer · Associate Consultant @ EY
-
-Building production-grade Generative AI systems, RAG applications, and enterprise AI platforms for government and enterprise clients.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-E1502A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D0C0B?style=for-the-badge&logo=googlechrome&logoColor=ECE6D8)](https://your-portfolio-url.com)
-
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/svgs/Java.svg" width="0" height="0" />
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikunj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj-kumar" />
+</p>
 
-## 🚀 What I Do
+<h1 align="center">Hi there, I'm Nikunj Kumar 👋</h1>
+<h2 align="center">AI/ML &amp; Generative AI Developer | LLMs, RAG &amp; Enterprise AI Systems</h2>
+<h3 align="center">{More precisely}</h3>
 
-I work at the intersection of **LLMs, retrieval systems, and enterprise-scale backends** — turning research-grade AI into systems that governments and enterprises actually run in production.
+<h2>
+AI/ML and Generative AI Developer with hands-on expertise in building intelligent systems using Large Language Models (LLMs), RAG pipelines, and vector databases. Experienced in deploying scalable Gen-AI applications that combine natural language processing, computer vision, and speech recognition. Passionate about solving complex real-world challenges in procurement, healthcare, and enterprise automation through cutting-edge AI frameworks and cloud-native architectures.
+</h2>
 
-- 🤖 **Production-Grade Generative AI** — LLMs · RAG · Agentic workflows · LangChain · Vector databases
-- 🧠 **AI/ML Engineering** — PyTorch · TensorFlow · Hugging Face · Computer Vision · OCR
-- ⚙️ **Scalable Backend Systems** — FastAPI · Docker · Kubernetes · Oracle SQL · Qdrant
+- 💼 Current Role: Associate Consultant, Technology Consulting at **EY (Ernst & Young)**
+- 🥅 Goal: To build production-grade Generative AI systems that solve real enterprise problems at scale.
+- ⚡ Personal Goal: Bridging the gap between rigorous ML/DL fundamentals and bleeding-edge LLM orchestration for government, healthcare, and enterprise use cases.
 
----
+#### ⚙️ Core Engineering Focus
 
-## 🏆 Flagship Projects
+* **Generative AI & RAG Pipelines:** Designing retrieval-augmented chatbots and evaluation systems using **LangChain**, **LlamaIndex**, and LLMs like **Gemini 2.5 Flash** and **LLaMA 3**, with context caching and hybrid retrieval to cut hallucinations and token cost.
+* **Vector Search & Semantic Matching:** Building **Sentence-BERT**-powered semantic similarity and fraud-detection engines backed by **Qdrant**, combined with cross-encoder reranking and anomaly detection (Isolation Forest, DBSCAN) for high-precision matching.
+* **Document Intelligence & OCR:** Engineering dual-OCR pipelines (Gemini Vision + Tesseract fallback) via PyMuPDF for robust extraction from scanned and image-heavy RFPs, with automated compliance scoring and Excel/Word report generation.
+* **Applied Deep Learning:** Training CNN + LSTM and transfer-learning models (VGG16, ResNet-50, DenseNet) in PyTorch/TensorFlow for healthcare diagnostics — ECG stroke prediction and knee disease classification.
 
-| Project | Description | Stack |
-|---|---|---|
-| **AI-Powered RFP Evaluation System** | Automates vendor bid evaluation using LLMs, OCR, context caching, and compliance analysis for enterprise procurement | LLMs · OCR · Context Caching |
-| **GeM Fraud Detection Platform** | Semantic fraud detection using vector search, reranking, and anomaly detection to flag suspicious procurement bids | Sentence-BERT · Vector Search · Reranking |
-| **PDF Intelligence Chatbot** | Enterprise multilingual RAG chatbot for the Rajasthan Finance Department | LLaMA · LangChain · FastAPI · Qdrant |
+<details>
+<summary><b>🔍 View Detailed Architectural Breakdown</b></summary>
 
----
+#### 🤖 Generative AI & RAG Systems
+* **RFP Analyzer:** GenAI-powered bid evaluation using Gemini 2.5 Flash with context caching, async parallel vendor evaluation, and a 5-status compliance framework (Compliant → Non-Compliant) with false-positive prevention.
+* **PDF Intelligence Chatbots:** Multilingual RAG chatbots (LLaMA 3 + LangChain + Qdrant) over 10k+ policy documents, with Bhashini-powered Hindi-English translation and CUDA/TensorRT-optimized sub-1.2s inference.
 
-## 🛠️ Tech Stack
+#### 🕸️ Vector Search & Fraud Detection
+* **Semantic Bid Matching:** Sentence-BERT embeddings with cosine similarity and cross-encoder reranking on Qdrant, reducing search latency by 38% while improving fraud-detection precision.
+* **Anomaly Detection:** Isolation Forest and DBSCAN models layered on top of embedding search to flag irregular bidding patterns at scale.
 
-**Languages & Frameworks**
+#### 🧠 Text-to-SQL & BI Platforms
+* **Natural Language to SQL:** LangChain SQL Agents with automated Oracle schema parsing across 200+ tables, paired with Streamlit dashboards for non-technical stakeholders.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+#### 🩺 Applied Deep Learning for Healthcare
+* **ECG Classification:** Hybrid CNN (VGG16) + LSTM pipeline with STFT/FFT signal processing, CUDA-accelerated training, and real-time inference on streaming ECG signals.
+* **Diagnostic Imaging:** Transfer-learning CNNs (ResNet-50, DenseNet) for knee disease classification, tuned for high clinical accuracy.
 
-**GenAI & ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Data & Infrastructure**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+</details>
 
 ---
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&bg_color=0D0C0B&title_color=E1502A&text_color=ECE6D8&icon_color=E1502A&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&bg_color=0D0C0B&title_color=E1502A&text_color=ECE6D8&hide_border=true)
+<h3>🛠️ Languages &amp; Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,react,js,html,css,mongodb,postgres,docker,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
----
+<br>
+<h4>Connect with me:</h4>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/your-github-handle" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:nikunjkumar5339@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### 💬 Let's Build the Next Generation of AI
+<br>
+<div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/> </div>
+<br>
 
-Open to conversations about GenAI systems, agentic architectures, and enterprise AI — reach out anytime.
-
+<a href=# ><img src="contributions.svg"></a>
 </div>
