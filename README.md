@@ -178,13 +178,8 @@ CNN + LSTM hybrids and transfer learning (**VGG16**, **ResNet-50**, **DenseNet**
 <a href="https://github.com/nks5339" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:nikunjkumar5339@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
-
-<i>Random dev joke for you!</i>
 <br>
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&bgColor=0D1117&qColor=0E75B6" alt="Jokes Card" />
-
-<br><br>
+<br><div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/> </div><br>
 
 <a href=# ><img src="contributions.svg"></a>
 
