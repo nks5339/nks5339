@@ -186,6 +186,8 @@ CNN + LSTM hybrids and transfer learning (**VGG16**, **ResNet-50**, **DenseNet**
 
 <br><br>
 
+<a href=# ><img src="contributions.svg"></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:2E2E38&height=100&section=footer" />
 
 </div>
