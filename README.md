@@ -21,16 +21,6 @@
 
 > AI/ML and Generative AI Developer building intelligent systems with **Large Language Models**, **RAG pipelines**, and **vector databases**. I ship scalable Gen-AI applications that blend natural language processing, computer vision, and speech recognition — and I care about the boring parts: token cost, latency, uptime, and not hallucinating in front of a government client.
 
-```yaml
-name:        Nikunj Kumar
-role:        Associate Consultant, Technology Consulting @ EY (Ernst & Young)
-since:       January 2024
-education:   B.Tech CSE, Sikkim Manipal Institute of Technology (2020–2024) · CGPA 8.12/10
-domains:     [ Public Procurement, Healthcare Diagnostics, Enterprise Automation ]
-goal:        Production-grade Generative AI that solves real enterprise problems at scale
-mission:     Bridge rigorous ML/DL fundamentals with bleeding-edge LLM orchestration
-```
-
 ---
 
 ### ⚙️ Core Engineering Focus
