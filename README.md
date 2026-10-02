@@ -10,7 +10,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=nks5339&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Associate%20Consultant-EY%20Technology%20Consulting-FFE600?style=flat-square&labelColor=2E2E38" alt="EY" />
+<img src="https://img.shields.io/badge/Technology%20Consultant-EY%20Technology%20Consulting-FFE600?style=flat-square&labelColor=2E2E38" alt="EY" />
 <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20RAG-0E75B6?style=flat-square" alt="focus" />
 
 </div>
